@@ -1,15 +1,15 @@
-<!-- HEADER SECTION (ไร้เส้นขอบ & จัดกึ่งกลาง) -->
+<!-- HEADER SECTION -->
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="280" style="margin-top: 10px;" alt="Developer GIF" />
 
-# <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Hello, I'm Chatree
-**MDM & Data Analyst | Full-Stack & Python Enthusiast**
+# <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Hello, I'm Chatree (Fluke)
+**MDM & Data Analyst | Learning Full-Stack with Python**
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=574964&center=true&vCenter=true&width=400&lines=Transforming+Data+into+Actionable+Insights.;Building+APIs+with+FastAPI+%E2%9A%A1;Crafting+minimalist+web+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=574964&center=true&vCenter=true&width=400&lines=Turning+messy+data+into+useful+answers.;Building+small+APIs+with+FastAPI+%E2%9A%A1;Learning+to+make+simple%2C+clean+web+apps." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -23,20 +23,21 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> About Me
-With a background in **Computer Engineering** and experience spanning Healthcare, Agri-tech, Logistics, and FinTech, I thrive on solving complex problems. Currently, I work as an **MDM & Data Analyst** at Rapida Solutions (Data Consultancy, Australia/BKK). 
+I studied **Computer Engineering** and have worked across Healthcare, Agri-tech, Logistics and FinTech. Along the way I've built data pipelines, dashboards and small automations with tools like BigQuery, Airflow, Looker and Google Apps Script.
 
-While my professional journey is deeply rooted in data operations and strategy, I am highly passionate about expanding my skills into **Full-Stack Development**, bridging the gap between robust data architecture and minimalist, Apple-inspired user interfaces.
+These days I'm an **MDM & Data Analyst** at Rapida Solutions, a data consultancy, where I help keep master data clean and reliable for the teams that depend on it.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> **Currently building:** A minimalist Kanban To-Do app (FastAPI + Vanilla JS).
-- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="20" /> **Learning:** Advanced Full-Stack Architecture & Modern UI/UX.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20" /> **Ask me about:** Data Analysis, Python, and Operations Strategy.
+Most of my work is on the data and operations side, and I'm slowly growing into **full-stack development**. I enjoy the idea of connecting solid data foundations with simple, clean interfaces that people actually like using. I'm still learning, so feedback and suggestions are always welcome.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> **Currently building:** A small, minimalist Kanban to-do app (FastAPI + vanilla JS).
+- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="20" /> **Learning:** Full-stack fundamentals, SQL and Snowflake, and basic UI/UX.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20" /> **Ask me about:** Data analysis, Python, and automating day-to-day operations.
 
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Tech Stack & Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- ปรับเพิ่มไอคอนสาย Data (เช่น pandas, numpy, docker) เข้าไปด้วย -->
     <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,pandas,html,css,tailwind,js,git,github,vscode&theme=light" alt="My Skills" />
   </a>
 </div>
@@ -53,14 +54,11 @@ While my professional journey is deeply rooted in data operations and strategy, 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" width="25" /> Let's Connect!
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:chatree.nernplub@gmail.com">
     <img src="https://img.shields.io/badge/Email-574964?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/chatree-nernplub1">
     <img src="https://img.shields.io/badge/LinkedIn-574964?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/X_/_Twitter-574964?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
