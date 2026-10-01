@@ -1,20 +1,20 @@
-<!-- HEADER SECTION (แบบไร้เส้นขอบ) -->
+<!-- HEADER SECTION (ไร้เส้นขอบ & จัดกึ่งกลาง) -->
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" align="right" width="280" style="margin-top: 10px;" alt="Developer GIF" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35" /> Hello, I'm Chatree
-**Full-Stack Developer | Python & Modern UI Enthusiast**
+**MDM & Data Analyst | Full-Stack & Python Enthusiast**
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=574964&width=400&lines=Crafting+minimalist+web+applications.;Building+APIs+with+FastAPI+%E2%9A%A1;Turning+ideas+into+clean+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=574964&center=true&vCenter=true&width=400&lines=Transforming+Data+into+Actionable+Insights.;Building+APIs+with+FastAPI+%E2%9A%A1;Crafting+minimalist+web+applications." alt="Typing SVG" />
 </a>
 
 <br><br>
 
-*“Good design is as little design as possible.”*
+*“Connecting the dots between data, operations, and clean code.”*
 
 </div>
 
@@ -23,18 +23,21 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> About Me
-I focus on building clean, minimalist, and highly functional web applications. My current focus is bridging the gap between robust backend architecture and seamless, Apple-inspired user interfaces.
+With a background in **Computer Engineering** and experience spanning Healthcare, Agri-tech, Logistics, and FinTech, I thrive on solving complex problems. Currently, I work as an **MDM & Data Analyst** at Rapida Solutions (Data Consultancy, Australia/BKK). 
+
+While my professional journey is deeply rooted in data operations and strategy, I am highly passionate about expanding my skills into **Full-Stack Development**, bridging the gap between robust data architecture and minimalist, Apple-inspired user interfaces.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" /> **Currently building:** A minimalist Kanban To-Do app (FastAPI + Vanilla JS).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" width="20" /> **Learning:** Advanced Full-Stack Architecture & System Design.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20" /> **Ask me about:** Python, API Design, and Minimalist UI.
+- <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="20" /> **Learning:** Advanced Full-Stack Architecture & Modern UI/UX.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="20" /> **Ask me about:** Data Analysis, Python, and Operations Strategy.
 
 <br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Tech Stack & Tools
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,html,css,tailwind,js,git,github,vscode&theme=light" alt="My Skills" />
+    <!-- ปรับเพิ่มไอคอนสาย Data (เช่น pandas, numpy, docker) เข้าไปด้วย -->
+    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,sqlite,pandas,html,css,tailwind,js,git,github,vscode&theme=light" alt="My Skills" />
   </a>
 </div>
 
